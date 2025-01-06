@@ -2,7 +2,7 @@
 I’m currently working on building a microservices architecture using NestJS and TypeScript.<br>I’m looking to collaborate on software development projects<br>I’m open to learning best practices for building scalable microservices and improving API design.<br>I’m currently learning new programming languages like PHP and Java, while sharpening my skills in JavaScript and Python.<br>Ask me about microservices in NestJS, backend development with TypeScript, and building RESTful APIs.<br>Fun fact: I love exploring different programming languages and frameworks, and I'm always up for a software engineering jobs/gigs and coding challenge !<br>
 
 
-## 🌐 Socials:i
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-adebayo-b926a3248) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Victoradebayo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZEED_2468 ) 
 
 # 💻 Tech Stack:
