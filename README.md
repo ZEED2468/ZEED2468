@@ -1,5 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on production-grade web apps and software systems across multiple domains<br>👯 I’m looking to collaborate on open-source projects, developer tools, and impactful full-stack applications<br>🤝 I’m looking for help with distributed systems architecture and advanced cloud-native patternsdistributed systems architecture and advanced cloud-native patterns<br>🌱 I’m currently learning Go internals, event-driven architecture, and LLM integration patterns<br>💬 Ask me about full-stack engineering, API design, microservices, system performance, and third-party 
+integrations<br>⚡ Fun fact: I studied Computer Science with Economics. I naturally think in both systems and incentive.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zeed2468) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adebayovictor001) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZEED_2468) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victoradebayo360@gmail.com) 
 
