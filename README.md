@@ -12,5 +12,3 @@ integrations<br>⚡ Fun fact: I studied Computer Science with Economics. I natur
 ![](https://streak-stats.demolab.com/?user=ZEED2468&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZEED2468&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
