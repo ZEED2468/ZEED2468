@@ -5,7 +5,8 @@ I ship production web applications with **TypeScript · React/Next.js · Node.js
 🌍 Lagos, Nigeria (UTC+1) full overlap with EU hours, US East-Coast mornings <br/>
 🏅 KCNA-certified (Kubernetes & Cloud Native Associate) · Backend mentor across multiple HNG cohorts <br/>
 🟢 Available full-time (40h/week), immediate start. I contract internationally (W-8BEN ready) <br/>
-📬 victoradebayo360@gmail.com · [LinkedIn](https://www.linkedin.com/in/adebayovictor001/) · [Portfolio](https://www.zeed-portfolio.xyz/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zeed--portfolio.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zeed-portfolio.xyz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-adebayovictor001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebayovictor001/) [![Email](https://img.shields.io/badge/Email-victoradebayo360%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoradebayo360@gmail.com)
 
 # 🚀 Shipped & Live
 
